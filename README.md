@@ -12,18 +12,27 @@ Através da minha experiência e conhecimento, sou capaz de colaborar com você 
 Experiência em:
 
 ✔️ Mais de 14 anos atuando com .NET e Frameworks da Microsoft
+
 ✔️ Conhecimento em Node.JS e criação de APIs
+
 ✔️ Fortes conhecimentos em SQL Server e MongoDB
+
 ✔️ Sempre estudando algo sobre desenvolvimento Frontend
+
 ✔️ Excelente profissional para tirar idéias do papel e transformalas em potencial de vendas
+
 ✔️ Anos atuando em liderança técnica de desenvolvedores, lapidando perfis, sendo um incentivador e aprimorador de carreiras.
 
 Outras Skills:
 
 ✔️ Experiência de trabalho remoto em equipes que utilizam práticas ágeis. 
+
 ✔️ Independente, solucionador de problemas e estou sempre com atitude proativa. 
+
 ✔️ Gosta de escrever códigos bem desenhados, com foco em resultados.
+
 ✔️ Autodidata apaixonado e curioso por criar e construir coisas e negócios.
+
 
 Hobbies: 
 - Cultivo Bonsai;
