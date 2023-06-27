@@ -34,10 +34,11 @@ Através da minha experiência e conhecimento, sou capaz de colaborar com você 
 ✔️ Autodidata apaixonado e curioso por criar e construir coisas e negócios.
 
 
-Hobbies: 
+## Hobbies: 
 - Cultivo Bonsai;
 - Adoro marcenaria e artesanato em geral;
 - Tenho uma Kombi que já foi um Mothorhome;
+
 
 #DesenvolvimentoFullStack 
 #TechLead 
