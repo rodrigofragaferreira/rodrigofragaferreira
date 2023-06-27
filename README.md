@@ -9,7 +9,7 @@ Através da minha experiência e conhecimento, sou capaz de colaborar com você 
 ⚡ Meu objetivo é ajudar as empresas a acelerarem seu crescimento, fornecendo soluções práticas e inovadoras que atendam às suas necessidades específicas. Se você tem uma ideia, eu tenho o conhecimento e a experiência para transformá-la em realidade.
 
 
-Experiência em:
+## Experiência em:
 
 ✔️ Mais de 14 anos atuando com .NET e Frameworks da Microsoft
 
@@ -23,7 +23,7 @@ Experiência em:
 
 ✔️ Anos atuando em liderança técnica de desenvolvedores, lapidando perfis, sendo um incentivador e aprimorador de carreiras.
 
-Outras Skills:
+## Outras Skills:
 
 ✔️ Experiência de trabalho remoto em equipes que utilizam práticas ágeis. 
 
